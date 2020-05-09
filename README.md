@@ -1,3 +1,3 @@
-# Menor-de-3-numeros
+# Minor of 3 numbers
 
-Aplicación del operador terniario (?) en el lenguaje JAVA. Se emplean la comparación de tres diferentes números para hallar el número menor.
+Application of the ternary operator (?) In the JAVA language. The comparison of three different numbers is used to find the smallest number.
