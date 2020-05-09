@@ -1,1 +1,3 @@
-# Mayor-de-3-n-meros
+# Mayor-de-3-numeros
+
+Aplicación del operador terniario (?) en el lenguaje JAVA. Se emplean la comparación de tres diferentes números para hallar el número menor.
